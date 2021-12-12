@@ -1,1 +1,40 @@
-<mxfile host="app.diagrams.net" modified="2021-12-12T15:51:37.962Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" version="15.9.4" etag="Pl_UTan_FHFIH2Ziv2sD" type="github"><diagram id="uWjA34wZOfR1VBg_fh_t">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-12-12T16:03:21.682Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="MrMeUrp5Q2Bjg-P6dnhE" version="15.9.4" type="github">
+  <diagram id="uWjA34wZOfR1VBg_fh_t" name="Page-1">
+    <mxGraphModel dx="868" dy="517" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="82jUR-Q6xojsYbvveArx-6" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="155" y="200" width="635" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="82jUR-Q6xojsYbvveArx-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=22;" edge="1" parent="1" source="82jUR-Q6xojsYbvveArx-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="660" y="150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="82jUR-Q6xojsYbvveArx-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fontSize=22;" edge="1" parent="1" source="82jUR-Q6xojsYbvveArx-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="120" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="82jUR-Q6xojsYbvveArx-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=22;" edge="1" parent="1" source="82jUR-Q6xojsYbvveArx-7" target="82jUR-Q6xojsYbvveArx-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="475" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="82jUR-Q6xojsYbvveArx-7" value="GET&amp;nbsp; /tutorial/other/hyper_text_transfer_protocol/&amp;nbsp; &amp;nbsp;http/1.1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="170" y="210" width="610" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="82jUR-Q6xojsYbvveArx-11" value="Method" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="95" y="130" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="82jUR-Q6xojsYbvveArx-13" value="Path" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="445" y="305" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="82jUR-Q6xojsYbvveArx-14" value="Protocol" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="630" y="120" width="60" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
